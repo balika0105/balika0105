@@ -1,5 +1,4 @@
-Does programming as a hobby, interested in C/C++, learnt C# in middle school.
-General understanding of OOP
+Junior Webdev (still learning stuff) with basic knowledge in C, C++ and C#
 
 
 📫 balazsmarkgruber@protonmail.com
